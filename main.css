@@ -60,4 +60,9 @@ span.blackback{
     background: #393939;
     color: #efefef;
 }
+nav li{display: inline;
+    list-style-type: none;
+    padding-right: 30px;
+    
+}
 
